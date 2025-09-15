@@ -5,8 +5,8 @@ Interactive Power BI dashboard visualizing sales, profit, and product performanc
 
 ## Dataset
 - Source: *Publicly available sample sales dataset (used for educational and analytical purposes).*
-- Rows: * 3002 rows*
-- Columns: *15 rows*
+- Rows: *3002*
+- Columns: *15*
 
 
 ## Tools
