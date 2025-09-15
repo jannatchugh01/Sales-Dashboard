@@ -22,7 +22,9 @@ Interactive Power BI dashboard visualizing sales, profit, and product performanc
 
 
 ## Key findings (summary)
-- *Insert 2–4 highest impact insights here. Use numbers.*
+- From a total sales of $4.14M, Canada and the US contributed 33.82% ($1.4M), highlighting the importance of North American markets.
+- Identified Top 3 categories drive 51% of profit, guiding product focus.
+- 18.6% of all discounts were concentrated in the Home & Kitchen category, impacting margins.
 
 
 ## Files
